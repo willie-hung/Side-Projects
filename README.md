@@ -1,1 +1,1 @@
-# IBM-DataScienceCourse-Practice
+# IBM-DataScience-Practice
